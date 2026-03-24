@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Alok Jha
 
-<!--
-**Alokjha16/Alokjha16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 2nd Year IT Student @ TCET  
+🚀 Full Stack Developer | React | Node.js  
+🤖 Building AI-powered projects like APICA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- 💡 APICA – AI Banking Recommendation System
+- ⚡ RushGate – Flash Sale System
+
+---
+
+## 🛠 Tech Stack
+- Frontend: React, Tailwind CSS
+- Backend: Node.js, Express
+- Database: MongoDB
+- Languages: JavaScript, Python, C++
+
+---
+
+## 📊 GitHub Stats
+(Use GitHub stats images)
+
+---
+
+## 📫 Connect with me
+LinkedIn | Email | Portfolio
