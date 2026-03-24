@@ -73,6 +73,7 @@ I specialize in **Full Stack Development and AI-driven systems**, where I combin
 
 ## 🏆 Achievements
 - 🥈 Secured **2nd Position – Innovgenius Hackathon**
+- 🏅 Multiple-time Hackathon Finalist
 - 🚀 Built AI-powered and scalable full stack systems  
 - 💡 Demonstrated strong problem-solving through real implementations  
 
