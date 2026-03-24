@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">🚀 Alok Jha</h1>
-<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Engineer in Progress | 🧠 Problem Solver</h3>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Engineer in Progress | 🏗️ Scalable Systems Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=520&lines=Building+Impactful+Tech+Solutions;AI+%2B+Full+Stack+Developer;Turning+Ideas+into+Real+Products;Consistent+Learner+%7C+Future+Engineer" />
