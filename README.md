@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center"> ALOK JHA </h1>
+<h1 align="center"> ALOK // JHA </h1>
 <h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Engineer in Progress | 🏗️ Scalable Systems Enthusiast </h3>
 
 <p align="center">
