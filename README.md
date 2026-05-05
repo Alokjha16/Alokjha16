@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **2nd Year IT student (Mumbai University)** passionate about building **scalable and real-world impactful systems**.
+I’m. a **2nd Year IT student (Mumbai University)** passionate about building **scalable and real-world impactful systems**.
 
 * 💻 Full Stack Development (MERN)
 * 🤖 AI/ML Based Systems
