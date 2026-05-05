@@ -1,16 +1,17 @@
+<!-- ================= TOP WATER WAVE ================= -->
+<p align="center" style="margin:0;padding:0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=180&section=header&text=ALOK%20JHA&fontSize=45&fontColor=ffffff"/>
+</p>
 <!-- ================= HEADER ================= -->
-
-<h1 align="center">⚡ ALOK JHA ⚡</h1>
-
-<p align="center">
+<p align="center" style="margin:0;padding:0;">
   <b>💻 Full Stack Developer • 🤖 AI/ML Engineer • 🚀 Tech Builder</b>
 </p>
 
-<p align="center">
+<p align="center" style="margin:5px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Building+Real+World+Products;Future+Software+Engineer" />
 </p>
 
-<p align="center">
+<p align="center" style="margin:5px 0;">
   <img src="https://img.shields.io/badge/AI%20%2B%20FullStack-0A192F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Real%20World%20Projects-1F6FEB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Continuous%20Growth-6E40C9?style=for-the-badge"/>
@@ -44,7 +45,6 @@ I’m a **2nd Year IT student (Mumbai University)** passionate about building **
 A modern AI-powered platform designed to help users manage and optimize their financial decisions.
 
 **Key Highlights:**
-
 * AI-driven financial insights and recommendations
 * Smart expense tracking with analytics dashboard
 * Personalized suggestions using behavioral data
@@ -58,7 +58,6 @@ A modern AI-powered platform designed to help users manage and optimize their fi
 An intelligent system that enhances banking experience through automation and personalization.
 
 **Key Highlights:**
-
 * Smart financial product recommendation engine
 * Customer behavior tracking and analytics
 * AI chatbot for personalized interaction
@@ -71,7 +70,6 @@ An intelligent system that enhances banking experience through automation and pe
 A deep learning project focused on advanced computer vision techniques.
 
 **Key Highlights:**
-
 * High-performance image segmentation model
 * Strong IoU accuracy across multiple variants
 * End-to-end training and validation pipeline
@@ -81,9 +79,10 @@ A deep learning project focused on advanced computer vision techniques.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alokjha16&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alokjha16&theme=tokyonight&hide_border=true" height="160"/>
+
+
+<p align="center" style="margin:0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alokjha16&theme=tokyonight&hide_border=true" height="190"/>
 </p>
 
 ---
@@ -107,7 +106,7 @@ A deep learning project focused on advanced computer vision techniques.
 
 ## 🌐 Connect
 
-<p align="center">
+<p align="center" style="margin:0;">
   <a href="https://www.linkedin.com/in/alok-jha-933943357">
     <img src="https://img.shields.io/badge/LinkedIn-Alok%20Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -120,12 +119,17 @@ A deep learning project focused on advanced computer vision techniques.
 
 ## 💡 Philosophy
 
-<p align="center">
+<p align="center" style="margin:0;">
 “I don’t just write code — I build systems that solve real-world problems.”
 </p>
 
 ---
 
-<p align="center">
+<p align="center" style="margin:0;">
 🚀 <b>Focused on Growth • Driven by Curiosity • Built for Impact</b>
+</p>
+
+<!-- ================= BOTTOM WATER WAVE (NO GAP) ================= -->
+<p align="center" style="margin:0;padding:0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer"/>
 </p>
