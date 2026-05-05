@@ -1,42 +1,38 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">🚀 ALOK JHA</h1>
-<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Engineer | ⚡ Building Scalable & Impactful Systems</h3>
+<h1 align="center">⚡ ALOK JHA ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2B+Full+Stack+Developer;Building+Real+World+Projects;Turning+Ideas+into+Products;Consistent+Learner+%7C+Future+Engineer" />
+  <b>💻 Full Stack Developer • 🤖 AI/ML Engineer • 🚀 Tech Builder</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Building+Real+World+Products;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%2B%20FullStack-0A192F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real%20World%20Projects-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Continuous%20Growth-6E40C9?style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- ================= BANNER ================= -->
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
+I’m a **2nd Year IT student (Mumbai University)** passionate about building **scalable and real-world impactful systems**.
 
----
-
-## 🧠 About Me
-
-🎓 I am a **2nd Year Information Technology student (Mumbai University)** passionate about building **scalable, real-world tech solutions**.
-
-💡 I focus on combining:
-
-* 🎨 Clean & modern **frontend UI**
-* ⚙️ Efficient & scalable **backend systems**
-* 🤖 Intelligent **AI/ML decision models**
-
-🚀 My mission:
-
-> Build products that are **useful, scalable, and impactful**
+* 💻 Full Stack Development (MERN)
+* 🤖 AI/ML Based Systems
+* ⚡ Strong Problem Solving Approach
+* 🎯 Focused on building *real products, not just projects*
 
 ---
 
-## ⚡ Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,cpp,html,css,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,cpp,html,css,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -45,42 +41,54 @@
 
 ### 🏦 Finova AI – Smart Financial Intelligence Platform
 
-* 🤖 AI-powered financial insights & recommendations
-* 📊 Expense tracking + smart analytics dashboard
-* 💡 Personalized financial suggestions based on user behavior
-* 🔐 Secure authentication & scalable backend architecture
-* ⚡ Built using MERN + AI models
+A modern AI-powered platform designed to help users manage and optimize their financial decisions.
+
+**Key Highlights:**
+
+* AI-driven financial insights and recommendations
+* Smart expense tracking with analytics dashboard
+* Personalized suggestions using behavioral data
+* Secure authentication and scalable backend
+* Built using MERN stack with AI integration
 
 ---
 
-### 🔥 APICA – AI Powered Banking Recommendation System
+### 🔥 APICA – AI Banking Recommendation System
 
-* 🤖 Intelligent financial product recommendations
-* 📊 Customer behavior analysis & engagement tracking
-* 💬 AI chatbot for personalized assistance
-* 🎯 Confidence scoring based decision system
+An intelligent system that enhances banking experience through automation and personalization.
+
+**Key Highlights:**
+
+* Smart financial product recommendation engine
+* Customer behavior tracking and analytics
+* AI chatbot for personalized interaction
+* Confidence-based decision-making system
 
 ---
 
-### 🧠 ML Project – Semantic Segmentation using DINOv2
+### 🧠 Semantic Segmentation using DINOv2
 
-* 🧠 Built deep learning model for image segmentation
-* 📊 Strong IoU performance across multiple variants
-* ⚡ End-to-end pipeline using PyTorch
-* 🔬 Applied computer vision on real datasets
+A deep learning project focused on advanced computer vision techniques.
+
+**Key Highlights:**
+
+* High-performance image segmentation model
+* Strong IoU accuracy across multiple variants
+* End-to-end training and validation pipeline
+* Implemented using PyTorch on real datasets
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alokjha16&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alokjha16&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alokjha16&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alokjha16&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alokjha16&theme=tokyo-night" />
@@ -90,38 +98,34 @@
 
 ## 🏆 Achievements
 
-* 🥈 **2nd Position – Innovgenius Hackathon**
+* 🥈 2nd Position – Innovgenius Hackathon
 * 🏅 Multiple Hackathon Finalist
-* 🚀 Built AI-powered & scalable full stack applications
-* 💡 Strong real-world problem-solving approach
+* 🚀 Developed scalable AI + Full Stack applications
+* 💡 Demonstrated strong real-world problem solving
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alok-jha-933943357">
-    <img src="https://img.shields.io/badge/LinkedIn-Alok%20Jha-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Alok%20Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:alokjha1229@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Developer Mindset
+## 💡 Philosophy
 
-💡 *"I don’t just write code — I build solutions that solve real problems."*
+<p align="center">
+“I don’t just write code — I build systems that solve real-world problems.”
+</p>
 
 ---
 
 <p align="center">
-🔥 Consistent Growth | 🚀 Builder Mindset | 💡 Impact Driven 🔥
-</p>
-
-<!-- ================= FOOTER ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+🚀 <b>Focused on Growth • Driven by Curiosity • Built for Impact</b>
 </p>
