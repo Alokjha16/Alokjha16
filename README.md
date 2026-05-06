@@ -4,11 +4,11 @@
 </p>
 <!-- ================= HEADER ================= -->
 <p align="center" style="margin:0;padding:0;">
-  <b>💻 Full Stack Developer • 🤖 AI/ML Engineer • 🚀 Tech Builder</b>
+  <b>💻 Full Stack Developer • ⚙️ Software Engineer • 🚀 Tech Builder</b>
 </p>
 
 <p align="center" style="margin:5px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Building+Real+World+Products;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Software+Engineer;Building+Real+World+Products;Future+Software+Engineer" />
 </p>
 
 <p align="center" style="margin:5px 0;">
@@ -78,8 +78,6 @@ A deep learning project focused on advanced computer vision techniques.
 ---
 
 ## 📊 GitHub Stats
-
-
 
 <p align="center" style="margin:0;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alokjha16&theme=tokyonight&hide_border=true" height="190"/>
