@@ -95,7 +95,7 @@ A deep learning project focused on advanced computer vision techniques.
 
 ## 🏆 Achievements
 
-* 🥈 2nd Position – Innovgenius Hackathon
+* 🥈 2nd Position – Innovgenius x TCS  Hackathon
 * 🏅 Multiple Hackathon Finalist
 * 🚀 Developed scalable AI + Full Stack applications
 * 💡 Demonstrated strong real-world problem solving
