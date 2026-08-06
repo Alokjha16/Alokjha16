@@ -4,7 +4,7 @@
 </p>
 <!-- ================= HEADER ================= -->
 <p align="center" style="margin:0;padding:0;">
-  <b>💻 Full Stack Developer/.//. • ⚙️ Software Engineer • 🚀 Tech Builder</b>
+  <b>💻 Full Stack Developer • ⚙️ Software Engineer • 🚀 Tech Builder</b>
 </p>
 
 <p align="center" style="margin:5px 0;">
