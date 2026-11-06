@@ -1,5 +1,4 @@
-
-name: Update Contribution Activity
+name: Activity Graph
 
 on:
   schedule:
@@ -14,8 +13,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate Activity Graph
-        uses: alexcerezo/activity-graph@v1
+      - uses: alexcerezo/activity-graph@v1
