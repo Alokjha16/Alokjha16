@@ -1,46 +1,84 @@
 
-<!-- ================= TOP WATER WAVE ================= -->
+<!-- ================================================= -->
+<!--                    TOP HEADER                     -->
+<!-- ================================================= -->
 
-<p align="center" style="margin:0;padding:0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=180&section=header&text=ALOK%20JHA&fontSize=45&fontColor=ffffff" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,25:1C2541,50:3A506B,75:00B4D8,100:0B132B&height=250&section=header&text=ALOK%20JHA&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Code.%20Create.%20Innovate.&descSize=22&descAlignY=62" width="100%" />
 </p>
 
-<!-- ================= HEADER ================= -->
-
-<p align="center" style="margin:0;padding:0;">
-  <b>💻 Full Stack Developer • ⚙️ Software Engineer • 🚀 Tech Builder</b>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Software+Engineer+in+Progress;Building+Real+World+Products;Turning+Ideas+Into+Reality" />
 </p>
 
-<p align="center" style="margin:5px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Software+Engineer;Building+Real+World+Products;Future+Software+Engineer" />
+<p align="center">
+  <b>💻 Full Stack Developer</b> &nbsp; • &nbsp;
+  <b>🤖 AI/ML Enthusiast</b> &nbsp; • &nbsp;
+  <b>🚀 Tech Builder</b>
 </p>
 
-<p align="center" style="margin:5px 0;">
-  <img src="https://img.shields.io/badge/AI%20%2B%20FullStack-0A192F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Real%20World%20Projects-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Continuous%20Growth-6E40C9?style=for-the-badge" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alokjha16&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%2B%20FULL%20STACK-0B132B?style=for-the-badge&logo=react&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/CONTINUOUS%20GROWTH-6E40C9?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Alokjha16?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alok-jha-933943357">
+    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
+<!-- ================================================= -->
+<!--                    ABOUT ME                       -->
+<!-- ================================================= -->
+
 ## 🧑‍💻 About Me
 
-I’m a **2nd Year IT student (Mumbai University)** passionate about building **scalable and real-world impactful systems**.
+I'm a **2nd Year IT student at Mumbai University** passionate about building scalable, intelligent, and real-world impactful systems.
 
 - 💻 Full Stack Development (MERN)
 - 🤖 AI/ML Based Systems
 - ⚡ Strong Problem Solving Approach
-- 🎯 Focused on building *real products, not just projects*
+- 🚀 Building real-world applications
+- 🎯 Focused on learning, innovation, and growth
 
 ---
+
+<!-- ================================================= -->
+<!--                   TECH STACK                      -->
+<!-- ================================================= -->
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,cpp,html,css,tailwind,git,github,vscode" />
+  <b>🎨 Frontend</b>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+<p align="center">
+  <b>⚙️ Backend & Database</b>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java,spring" />
+</p>
+
+<p align="center">
+  <b>🤖 AI/ML & Tools</b>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,git,github,vscode" />
 </p>
 
 ---
+
+<!-- ================================================= -->
+<!--                FEATURED PROJECTS                  -->
+<!-- ================================================= -->
 
 ## 🚀 Featured Projects
 
@@ -50,11 +88,11 @@ A modern AI-powered platform designed to help users manage and optimize their fi
 
 **Key Highlights:**
 
-- AI-driven financial insights and recommendations
-- Smart expense tracking with analytics dashboard
-- Personalized suggestions using behavioral data
-- Secure authentication and scalable backend
-- Built using MERN stack with AI integration
+- 🤖 AI-driven financial insights and recommendations
+- 📊 Smart expense tracking with analytics dashboard
+- 🧠 Personalized suggestions using behavioral data
+- 🔐 Secure authentication and scalable backend
+- ⚙️ Built using MERN stack with AI integration
 
 ---
 
@@ -64,10 +102,10 @@ An intelligent system that enhances banking experience through automation and pe
 
 **Key Highlights:**
 
-- Smart financial product recommendation engine
-- Customer behavior tracking and analytics
-- AI chatbot for personalized interaction
-- Confidence-based decision-making system
+- 💳 Smart financial product recommendation engine
+- 📈 Customer behavior tracking and analytics
+- 🤖 AI chatbot for personalized interaction
+- 🎯 Confidence-based decision-making system
 
 ---
 
@@ -77,50 +115,41 @@ A deep learning project focused on advanced computer vision techniques.
 
 **Key Highlights:**
 
-- High-performance image segmentation model
-- Strong IoU accuracy across multiple variants
-- End-to-end training and validation pipeline
-- Implemented using PyTorch on real datasets
+- 🖼️ High-performance image segmentation model
+- 📊 IoU-based model evaluation
+- ⚙️ End-to-end training and validation pipeline
+- 🐍 Implemented using PyTorch on real datasets
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- ================================================= -->
+<!--                  GITHUB STATS                     -->
+<!-- ================================================= -->
 
 ## 📊 GitHub Stats & Developer Insights
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Alokjha16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-    height="180"
-    alt="Alok's GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alokjha16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=Alokjha16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" alt="Alok's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alokjha16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Alok's Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Alokjha16&theme=tokyonight&hide_border=true&border_radius=10"
-    width="70%"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=Alokjha16&theme=tokyonight&hide_border=true&border_radius=12" width="75%" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-<!-- ================= CONTRIBUTION ACTIVITY ================= -->
+<!-- ================================================= -->
+<!--              CONTRIBUTION ACTIVITY                -->
+<!-- ================================================= -->
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Alokjha16&bg_color=1a1b27&color=70a5fd&line=00f7ff&point=ffffff&area=true&hide_border=true&custom_title=Alok%20Jha's%20Contribution%20Graph"
-    width="100%"
-    alt="Alok's GitHub Contribution Activity Graph"
-  />
+
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
+
 </p>
 
 <p align="center">
@@ -128,6 +157,10 @@ A deep learning project focused on advanced computer vision techniques.
 </p>
 
 ---
+
+<!-- ================================================= -->
+<!--                  ACHIEVEMENTS                     -->
+<!-- ================================================= -->
 
 ## 🏆 Achievements
 
@@ -138,35 +171,44 @@ A deep learning project focused on advanced computer vision techniques.
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- ================================================= -->
+<!--                    CONNECT                        -->
+<!-- ================================================= -->
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
-<p align="center" style="margin:0;">
+<p align="center">
   <a href="https://www.linkedin.com/in/alok-jha-933943357">
     <img src="https://img.shields.io/badge/LinkedIn-Alok%20Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alokjha1229@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/Alokjha16">
+    <img src="https://img.shields.io/badge/GitHub-Alokjha16-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💡 Philosophy
+<!-- ================================================= -->
+<!--                   PHILOSOPHY                      -->
+<!-- ================================================= -->
 
-<p align="center" style="margin:0;">
-  "I don’t just write code — I build systems that solve real-world problems."
+## 💡 My Philosophy
+
+<p align="center">
+  <i>"I don't just write code — I build systems that solve real-world problems."</i>
 </p>
 
----
-
-<p align="center" style="margin:0;">
+<p align="center">
   🚀 <b>Focused on Growth • Driven by Curiosity • Built for Impact</b>
 </p>
 
-<!-- ================= BOTTOM WATER WAVE ================= -->
+<!-- ================================================= -->
+<!--                  BOTTOM WAVE                      -->
+<!-- ================================================= -->
 
-<p align="center" style="margin:0;padding:0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,25:3A506B,50:1C2541,100:0B132B&height=170&section=footer" width="100%" />
 </p>
